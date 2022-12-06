@@ -6,4 +6,7 @@ module.exports = {
     path: __dirname + "/js",
     filename: "changenow.js",
   },
+  devServer: {
+    static: "./",
+  },
 };

@@ -6,7 +6,8 @@
   "scripts": {
     "sass-watch": "sass css/src/changenow.scss css/changenow.css --watch",
     "sass-build": "sass css/src/changenow.scss css/changenow.css --style compressed",
-    "build": "yarn sass-build && webpack --mode production"
+    "build": "yarn sass-build && webpack --mode production",
+    "start": "webpack serve --open"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   "devDependencies": {
     "sass": "^1.56.1",
     "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1"
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
   }
 }
