@@ -1,0 +1,44 @@
+$mobile-breakpoint: 960px;
+@mixin mobile {
+  @media (max-width: #{$mobile-breakpoint}) {
+    @content;
+  }
+}
+@mixin minHeightHighest {
+  @media (min-height: 1500px) {
+    @content;
+  }
+}
+@mixin maxHeightHighest {
+  @media (max-height: 1200px) {
+    @content;
+  }
+}
+@mixin maxHeightHigh {
+  @media (max-height: 1000px) {
+    @content;
+  }
+}
+@mixin maxHeightHigher {
+  @media (max-height: 850px) {
+    @content;
+  }
+}
+@mixin maxHeightMedium {
+  @media (max-height: 700px) {
+    @content;
+  }
+}
+@mixin maxHeightLower {
+  @media (max-height: 600px) {
+    @content;
+  }
+}
+@mixin maxHeightLowest {
+  @media (max-height: 500px) {
+    @content;
+  }
+}
+@function px2em($pixels) {
+  @return #{calc($pixels/16)}em;
+}

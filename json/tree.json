@@ -1,0 +1,1739 @@
+{
+  "tree": [
+    {
+      "id": 1,
+      "title": "La transition écologique, vous en avez sans doute déjà entendu parler",
+      "paths": [
+        {
+          "step": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mais saviez-vous que le numérique joue un rôle fondamental dans cette transition ?",
+      "paths": [
+        {
+          "label": "OUI",
+          "step": 3
+        },
+        {
+          "label": "NON",
+          "step": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Vous n'êtes pas au bout de vos surprises, on a beaucoup de choses à vous raconter !",
+      "paths": [
+        {
+          "step": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ca tombe bien, on a beaucoup de choses à vous raconter !",
+      "paths": [
+        {
+          "step": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Le groupe Orange est même en première ligne sur le sujet",
+      "paths": [
+        {
+          "step": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "A l'heure actuelle, nos émissions de CO2 proviennent majoritairement de :",
+      "paths": [
+        {
+          "label": "De nos équipements (réseaux, systèmes d'information et infrastructures techniques) ?",
+          "step": 7
+        },
+        {
+          "label": "De nos bâtiments (bureaux etc.) ? ",
+          "step": 8
+        },
+        {
+          "label": "Des transports utilisés lors de déplacements professionnels ?",
+          "step": 9
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Bonne réponse ! Et pour en savoir plus, c'est par ici",
+      "paths": [
+        {
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Et non ! Pour découvrir la bonne réponse, c'est par ici",
+      "paths": [
+        {
+          "step": 11
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Et non ! Pour découvrir la bonne réponse, c'est par ici",
+      "paths": [
+        {
+          "step": 12
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Effectivement,<br/>nos équipements = 81,6% de nos émissions de CO2",
+      "paths": [
+        {
+          "step": 13
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Les bâtiments représentent seulement 11,7% de nos émissions de CO2.<br/>Le reste c'est :<br/>Nos transports : 6,7%<br/>Nos équipements : 81,6%",
+      "paths": [
+        {
+          "step": 14
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Nos transports représentent seulement 6,7%.<br/>Voici la majeure partie :<br/>Nos bâtiments : 11,7%<br/>Nos équipements : 81,6%",
+      "paths": [
+        {
+          "step": 14
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Le reste c'est :<br/>Nos transports : 6,7%<br/>Nos bâtiments : 11,7%",
+      "paths": [
+        {
+          "step": 14
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Mais nous avons pris un engagement : celui de devenir un groupe net zéro carbone",
+      "paths": [
+        {
+          "step": 15
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Et d'après vous, c'est pour quand ?",
+      "paths": [
+        {
+          "label": "2040",
+          "step": 16
+        },
+        {
+          "label": "2060",
+          "step": 17
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Bravo, vous avez raison !",
+      "paths": [
+        {
+          "step": 18
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Et non, bien plus tôt : dès 2040 !",
+      "paths": [
+        {
+          "step": 18
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Nous prévoyons ainsi d'anticiper de 10 ans les objectifs du secteur...",
+      "paths": [
+        {
+          "step": 19
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "D'ici 2025, nous prévoyons déjà de réduire nos émissions de CO2 de 30 %<br/>Grâce à quelles solutions, selon vous ?",
+      "paths": [
+        {
+          "label": "L'énergie renouvelable",
+          "step": 20
+        },
+        {
+          "label": "De nouveaux équipements plus éco-efficaces",
+          "step": 21
+        },
+        {
+          "label": "La mise en place d'un programme spécifique",
+          "step": 22
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Et oui, voici 2 exemples :",
+      "paths": [
+        {
+          "step": 23
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Et oui, voici 1 exemple avec nos centres de stockage et de traitement de données :",
+      "paths": [
+        {
+          "step": 24
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Et oui ! Celui-ci s'appelle Green ITN. Il nous a déjà permis d'économiser :",
+      "paths": [
+        {
+          "step": 25
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "5 400 sites solaires en Afrique et au Moyen-Orient...<br/>Et 3 fermes solaires en Jordanie.<br/>Et le chiffre à retenir :",
+      "paths": [
+        {
+          "step": 26
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Dans plusieurs d'entre eux, nous avons recours à la ventilation naturelle ou l’énergie solaire.<br/>Et le chiffre à retenir :",
+      "paths": [
+        {
+          "step": 26
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "2,7 millions de tonnes de CO2 entre 2015 et 2018 dans nos réseaux et Systèmes d’Informations.<br/>Et le chiffre à retenir :",
+      "paths": [
+        {
+          "step": 26
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "En 2025 : l’électricité d’origine renouvelable représentera + de 50% de notre consommation électrique",
+      "paths": [
+        {
+          "step": 28
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Et maintenant ?",
+      "paths": [
+        {
+          "label": "Creuser le sujet des réseaux et de la 5G, ça vous dit ?",
+          "step": 29
+        },
+        {
+          "label": "Plutôt envie de connaître des actions et gestes à mettre en place à votre niveau ?",
+          "step": 30
+        },
+        {
+          "label": "Vous préférez découvrir des innovations et initiatives de start-up ?",
+          "step": 200
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "C'est vrai qu'il y a beaucoup à dire là-dessus...",
+      "paths": [
+        {
+          "step": 31
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Super, vous ne regarderez plus jamais votre téléphone de la même façon !",
+      "paths": [
+        {
+          "step": 103
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Et on commence avec la 5G !<br/>Ca vous dit ?",
+      "paths": [
+        {
+          "label": "Carrément !",
+          "step": 32
+        },
+        {
+          "label": "Pas trop, je préfère passer",
+          "step": 33
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Alors c'est parti !",
+      "paths": [
+        {
+          "step": 34
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Pas de problème, continuons, c'est par ici...",
+      "paths": [
+        {
+          "step": 46
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Et ce nouveau réseau sera combien de fois plus efficace énergétiquement que la 4G ?",
+      "paths": [
+        {
+          "label": "2 fois",
+          "step": 35
+        },
+        {
+          "label": "5 fois",
+          "step": 35
+        },
+        {
+          "label": "10 fois",
+          "step": 36
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Et non pas tout à fait ! La 5G sera 10 fois plus efficace énergétiquement que la 4G en 2025 !",
+      "paths": [
+        {
+          "step": 37
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Effectivement, la 5G sera 10 fois plus efficace énergétiquement que la 4G en 2025 !",
+      "paths": [
+        {
+          "step": 37
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Vous vous demandez comment c'est possible ?",
+      "paths": [
+        {
+          "step": 38
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Et bien parce qu'elle intègre l’optimisation de la consommation énergétique dans sa conception...",
+      "paths": [
+        {
+          "step": 39
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "La 5G fonctionne « au juste besoin » : les antennes ne s’activent qu’à la demande...<br/>Mais ce n'est pas tout !",
+      "paths": [
+        {
+          "step": 40
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Dans les villes, la 5G va notamment permettre de...",
+      "paths": [
+        {
+          "label": "Faciliter les déplacements en permettant l'optimisation des transports ?",
+          "step": 41
+        },
+        {
+          "label": "Réguler les flux d'énergie pour consommer mieux et moins ?",
+          "step": 41
+        },
+        {
+          "label": "Proposer de nouveaux services notamment grâce à l'Internet des Objets ?",
+          "step": 41
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Les trois à la fois !<br/>Encore un petit clic et vous en saurez + ...",
+      "paths": [
+        {
+          "step": 42
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Avec la 5G, nous construisons un urbanisme augmenté !<br/>Mais vous vous en doutez, la 5G, c'est aussi d'autres avantages :",
+      "paths": [
+        {
+          "step": 43
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Envie d'en savoir plus sur la 5G et son efficacité énergétique ?",
+      "paths": [
+        {
+          "label": "OUI",
+          "step": 44
+        },
+        {
+          "label": "NON",
+          "step": 45
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Super, voici une vidéo qui explique tout :",
+      "video": "5g",
+      "paths": [
+        {
+          "label": "Continuez pour découvrir la suite de nos engagements...",
+          "step": 47
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Pas de problème, passons à la suite !",
+      "paths": [
+        {
+          "step": 47
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Passons directement à la suite !",
+      "paths": [
+        {
+          "step": 47
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Nous favorisons l'écoconception. Devinez comment :",
+      "paths": [
+        {
+          "label": "Avec une carte sim moins énergivore",
+          "step": 48
+        },
+        {
+          "label": "Avec une livebox plus écologique",
+          "step": 49
+        },
+        {
+          "label": "Avec un téléphone écoresponsable",
+          "step": 50
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "dont le support est divisé de moitié et sur lesquel nous proposons 2 puces au lieu d'1",
+      "paths": [
+        {
+          "step": 56
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "La Livebox 5 dont l'empreinte carbone est réduite de 29% par rapport à celle de la Livebox 4",
+      "paths": [
+        {
+          "step": 51
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Le Neva Leaf, et qu'Orange a conçu",
+      "paths": [
+        {
+          "step": 52
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Et voici comment :",
+      "paths": [
+        {
+          "step": 53
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Vous connaissez le Neva Leaf ?",
+      "paths": [
+        { "label": "Bien sûr !", "step": 54 },
+        { "label": "Non, c'est quoi ?", "step": 55 }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Elle est plus légère et compacte, avec moins de composants et une coque 100% en plastique recyclé",
+      "paths": [{ "step": 58 }]
+    },
+    {
+      "id": 54,
+      "title": "Vous êtes fort !",
+      "paths": [{ "step": 58 }]
+    },
+    {
+      "id": 55,
+      "title": "C'est un smartphone Orange éco-conçu, durable et facilement réparable",
+      "paths": [{ "step": 56 }]
+    },
+    {
+      "id": 56,
+      "title": "Vous voilà (presque) incollable sur nos engagements en faveur de la transition énergétique !",
+      "paths": [{ "step": 57 }]
+    },
+    {
+      "id": 57,
+      "title": "Nous espérons que vous avez appris quelque chose ici !",
+      "paths": [{ "step": 58 }]
+    },
+    {
+      "id": 58,
+      "title": "Et maintenant ?",
+      "paths": [
+        {
+          "label": "Je veux connaître les actions à mettre en place à mon niveau",
+          "step": 103
+        },
+        {
+          "label": "J'ai envie de découvrir des inovations et initatives de start-up",
+          "step": 200
+        },
+        {
+          "label": "Je m'arrête là, merci",
+          "step": 59
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Pour prolonger les découvertes sur le numérique et la transition écologique, <a href='https://www.orange.com/fr/orange-sengage-pour-la-transition-energetique-avec-le-numerique' target='_blank' rel='noopener'>cliquez ici</a>",
+      "paths": []
+    },
+    {
+      "id": 100,
+      "title": "Plutôt envie de connaître des actions et gestes à mettre en place à votre niveau ?",
+      "paths": [{ "step": 102 }]
+    },
+    {
+      "id": 102,
+      "title": "Super, vous ne regarderez plus jamais votre téléphone de la même façon !",
+      "paths": [{ "step": 103 }]
+    },
+    {
+      "id": 103,
+      "title": "A propos de téléphones...",
+      "paths": [{ "step": 104 }]
+    },
+    {
+      "id": 104,
+      "title": "Combien ont été vendus dans le monde depuis 2007 selon vous ?",
+      "paths": [
+        {
+          "label": "Plus de 10 milliards",
+          "step": 105
+        },
+        { "label": "Plus de 7 milliards", "step": 106 },
+        { "label": "Plus de 2 milliards", "step": 106 }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Et oui c'est bien 10 milliards !",
+      "paths": [{ "label": "Continuez pour en savoir plus", "step": 107 }]
+    },
+    {
+      "id": 106,
+      "title": "Et non, c'était 10 milliards !",
+      "paths": [{ "label": "Continuez pour en savoir plus", "step": 107 }]
+    },
+    {
+      "id": 107,
+      "title": "L'enjeu écologique de ces merveilles technologiques ?",
+      "paths": [{ "step": 108 }]
+    },
+    {
+      "id": 108,
+      "title": "C'est qu'ils sont composés de plastique, de verre et de métaux rares...",
+      "paths": [{ "step": 109 }]
+    },
+    {
+      "id": 109,
+      "title": "D'ailleurs, il faut combien de matière première pour fabriquer un smartphone ?",
+      "paths": [
+        { "label": "10 kg", "step": 111 },
+        { "label": "40 kg", "step": 111 },
+        {
+          "label": "70 kg",
+          "step": 110
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Bravo c'est bien ça ! Ce qui représente 500 fois son poids.",
+      "paths": [{ "label": "Cliquez pour voir la suite !", "step": 112 }]
+    },
+    {
+      "id": 111,
+      "title": "Et non c'est beaucoup plus : 70kg ! Ce qui représente 500 fois son poids.",
+      "paths": [{ "label": "Cliquez pour voir la suite !", "step": 112 }]
+    },
+    {
+      "id": 112,
+      "title": "Souhaitez-vous en apprendre plus sur l'impact environnemental des smartphones ?",
+      "paths": [
+        {
+          "label": "Non, emmenez-moi plutôt découvrir les actions mises en place par Orange pour limiter cet impact !",
+          "step": 113
+        },
+        {
+          "label": "Oui ça m'intéresse !",
+          "step": 114
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Ok, suivez-moi !",
+      "paths": [
+        {
+          "step": 118
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Alors le saviez-vous ?<br/>Près de 80% de l'impact environnemental d'un smartphone est dû à sa fabrication et distribution",
+      "paths": [
+        {
+          "label": "Bien sûr, je le savais déjà !",
+          "step": 115
+        },
+        {
+          "label": "Non je ne savais pas, dites-moi en plus !",
+          "step": 116
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Vous êtes fort ! On continue...",
+      "paths": [
+        {
+          "step": 118
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "20% seulement est dû à sa phase d'utilisation",
+      "paths": [
+        {
+          "step": 117
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Pourtant, on change en moyenne de téléphone tout les deux ans. Et ce, alors que...",
+      "paths": [
+        {
+          "step": 119
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "On change en moyenne de téléphone tous les 2 ans, alors que...",
+      "paths": [
+        {
+          "step": 119
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "...dans la majeure partie des cas il fonctionne encore !",
+      "paths": [
+        {
+          "step": 120
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "C'est pour réduire cet impact que nous investissons dans l'économie circulaire.",
+      "paths": [
+        {
+          "label": "A ce propos...",
+          "step": 121
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Avez-vous entendu parler de notre programme RE ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 122
+        },
+        {
+          "label": "Non et j'ai envie d'en savoir plus !",
+          "step": 123
+        },
+        {
+          "label": "Non et ça ne m'intéresse pas trop...",
+          "step": 124
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Super ;) Alors on vous teste !",
+      "paths": [
+        {
+          "step": 125
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Super, notre programme RE se résume en 3 mots :<br/>REcyclage<br/>REprise<br/>REcoditionnement",
+      "paths": [
+        {
+          "step": 127
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Pas de problème ! C'est par ici que ça se passe alors",
+      "paths": [
+        {
+          "step": 138
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "RE c'est...",
+      "paths": [
+        {
+          "label": "Un programme de recyclage de votre smartphone",
+          "step": 126
+        },
+        { "label": "Un programme de reprise de votre téléphone", "step": 126 },
+        {
+          "label": "Un programme de vente de téléphones reconditionnés",
+          "step": 126
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "title": "C'est les 3 à la fois !<br/>REcyclage<br/>REprise<br/>REconditionnement",
+      "paths": [
+        {
+          "step": 127
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Lequel souhaitez-vous découvrir ?",
+      "paths": [
+        {
+          "label": "Le recyclage des smartphones",
+          "step": 128
+        },
+        { "label": "La reprise des téléphones portables", "step": 129 },
+        {
+          "label": "Le reconditionnement",
+          "step": 130
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "Nous recyclons ceux qui ne sont plus fonctionnels ou qui n’ont plus de valeur marchande. Pour cela....",
+      "paths": [
+        {
+          "step": 131
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Nous échangeons votre téléphone contre un bon d’achat ou une remise immédiate...",
+      "paths": [
+        {
+          "step": 132
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "title": "Nos appareils reconditionnés sont testés et révisés. Le tout, garanti un an...",
+      "paths": [
+        {
+          "step": 133
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "nous travaillons en partenariat avec Emmaüs International",
+      "paths": [
+        {
+          "step": 134
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "tout en reversant 2 euros au réseau Emmaüs International pour chaque reprise",
+      "paths": [
+        {
+          "step": 134
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "title": "ça fait du bien à la planète et au portefeuille !",
+      "paths": [
+        {
+          "step": 134
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Et ça marche aussi pour les objets connectés, les montres ou tout accessoire vendu en boutique Orange !",
+      "paths": [
+        {
+          "step": 135
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Est-ce vous souhaitez + d'infos sur RE ?",
+      "paths": [
+        {
+          "label": "Oui",
+          "step": 136
+        },
+        { "label": "Non merci", "step": 137 }
+      ]
+    },
+    {
+      "id": 136,
+      "title": "Ok, suivez-nous !",
+      "paths": [
+        {
+          "step": 127
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Pas de problème, alors on continue par ici !",
+      "paths": [
+        {
+          "step": 139
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "title": "Au quotidien, certaines habitudes aussi sont bonnes à prendre...",
+      "paths": [
+        {
+          "label": "Pour découvrir les écogestes, c'est par ici",
+          "step": 140
+        },
+        { "label": "Pour passer les écogestes, par là", "step": 141 }
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Au quotidien aussi, certaines habitudes sont aussi bonnes à prendre...",
+      "paths": [
+        {
+          "label": "Pour découvrir les écogestes, c'est par ici",
+          "step": 140
+        },
+        { "label": "Pour passer les écogestes, par là", "step": 141 }
+      ]
+    },
+    {
+      "id": 140,
+      "title": "",
+      "video": "ecogestes",
+      "paths": [
+        {
+          "step": 141
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "Voulez-vous que le numérique vous aide à devenir un \"green citizen\" ?",
+      "paths": [
+        {
+          "label": "OUI",
+          "step": 142
+        },
+        { "label": "NON", "step": 143 }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "Ah ça tombe bien, il existe nombreux sites et applis pour vous guider !",
+      "paths": [
+        {
+          "step": 144
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "title": "C'est noté, alors rdv par ici pour le mot de la fin !",
+      "paths": [
+        {
+          "step": 148
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "title": "On vous en a sélectionné 3, cliquez sur ce qui vous interpelle le plus !",
+      "paths": [
+        {
+          "label": "Ecosia, le moteur de recherche qui plante des arbres",
+          "step": 145
+        },
+        {
+          "label": "L'appli Clear Fashion, le Yuka de la mode",
+          "step": 146
+        },
+        {
+          "label": "Open Food Facts : le Wikipedia de l'alimentation",
+          "step": 147
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Bon choix !<br/>Ecosia reverse 80 % ses bénéfices dans des projets de reforestation. Malin et écolo !",
+      "paths": [
+        {
+          "step": 148
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Bon choix !<br/>Clear Fashion note les marques selon des critères comme le respect de l'environnement et le bien-être animal",
+      "paths": [
+        {
+          "step": 148
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "title": "Bon choix !<br/>Ce site affiche leur bilan carbone de + de 790 000 produits alimentaires",
+      "paths": [
+        {
+          "step": 148
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "title": "Vous voilà (presque) incollable sur les réflexes des écogestes à mettre en place au quotidien, et...",
+      "paths": [
+        {
+          "step": 149
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "title": "qui font la différence. Parce que l'avenir de la planète c'est l'affaire de tous !",
+      "paths": [
+        {
+          "label": "J'ai envie de découvrir des innovations et initiatives de start-up",
+          "step": 200
+        },
+        {
+          "label": "Je veux découvrir les réseaux et leur efficacité énergétique",
+          "step": 1
+        },
+        {
+          "label": "Je m'arrête là, merci",
+          "step": 59
+        }
+      ]
+    },
+
+    {
+      "id": 200,
+      "title": "Vous préférez découvrir des innovations des start-up ?",
+      "paths": [
+        {
+          "step": 202
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "Alors c'est par ici !<br/>Nous avons plusieurs start-up à vous montrer !",
+      "paths": [
+        {
+          "step": 203
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "Lesquelles avez-vous envie de découvrir ?<br/>Plutôt celles qui agissent en faveur de...",
+      "paths": [
+        {
+          "label": "l'environnement",
+          "step": 204
+        },
+        {
+          "label": "la santé",
+          "step": 242
+        },
+        {
+          "label": "l'inclusion",
+          "step": 266
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "title": "Très bon choix !",
+      "paths": [
+        {
+          "step": 205
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "title": "Vous préférez en apprendre + sur les start-up qui...",
+      "paths": [
+        {
+          "label": "participent à l'économie circulaire",
+          "step": 206
+        },
+        {
+          "label": "ont développé des technologies du changement ?",
+          "step": 227
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "title": "OK ! Alors laquelle découvrir en premier ?",
+      "paths": [
+        {
+          "label": "Les plateformes de dons ou de revente",
+          "step": 207
+        },
+        {
+          "label": "ou plutôt les autres innovations ?",
+          "step": 218
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "title": "Alors c'est par ici !",
+      "paths": [
+        {
+          "step": 208
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Cliquez sur celle qui vous intéresse pour en apprendre +",
+      "paths": [
+        {
+          "label": "Elle donne une seconde vie aux équipements des bureaux",
+          "step": 209
+        },
+        {
+          "label": "Elle vend des vêtements de seconde main",
+          "step": 215
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "title": "Elle s'appelle Corecyclage, une start-up française qui permet de donner une seconde vie au mobilier et matériel des entreprises.",
+      "paths": [
+        {
+          "step": 214
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "title": "Envie de découvrir une autre start-up qui agit pour l'environnement ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 205
+        },
+        {
+          "label": "Non merci, je préfère découvrir les autres thématiques",
+          "step": 203
+        },
+        {
+          "label": "Non merci, je préfère aller tout de suite à la fin du parcours",
+          "step": 277
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Elle s'appelle Dabchy. C'est une start-up tunisienne qui permet de diminuer la vente de vêtements neufs en Tunisie",
+      "paths": [
+        {
+          "step": 214
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "title": "En voici 3 très différentes",
+      "paths": [
+        {
+          "step": 219
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Cliquez sur celle qui vous intéresse pour en apprendre +",
+      "paths": [
+        {
+          "label": "Un traiteur éco-responsable",
+          "step": 220
+        },
+        {
+          "label": "Un écocup 100% biodégradable",
+          "step": 224
+        },
+        {
+          "label": "Un emballage intelligent pour le e-commerce",
+          "step": 225
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Il s'agit de Simone & Co, une start-up française qui lutte contre le gaspillage alimentaire en donnant une seconde vie aux produits invendus, déclassés et \"moches\".",
+      "paths": [
+        {
+          "step": 214
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "title": "qui s'appelle Mon gobelet en lin et qui a été crée par une start-up française qui utilise une ressource biosourcée et locale : le lin",
+      "paths": [
+        {
+          "step": 214
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "title": "Il s'agit de Living Packets.<br/>Qui élimine tous les déchets d'emballage...<br/>Grâce à une box durable et recyclable à l'infini !",
+      "paths": [
+        {
+          "step": 214
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "title": "Ok, alors quelle innovation voulez-vous découvrir en premier ?",
+      "paths": [
+        {
+          "label": "La plateforme qui alerte des risques climatiques",
+          "step": 228
+        },
+        {
+          "label": "L'empreinte carbone personnalisée",
+          "step": 236
+        },
+        {
+          "label": "L'outil qui permet de réduire la consommation de gazole...",
+          "step": 240
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "title": "Il s'agit de C-life Guard, un collectif auquel participe Orange et qui permet de co-innover au service du climat !",
+      "paths": [
+        {
+          "step": 231
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "title": "Envie de découvrir une autre start-up qui agit pour l'environnement ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 205
+        },
+        {
+          "label": "Non merci, je préfère découvrir les autres thématiques",
+          "step": 203
+        },
+        {
+          "label": "Non merci, je préfère aller tout de suite à la fin du parcours",
+          "step": 277
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "title": "Il s'agit de Smart Grid Control, la fin Tech qui a produit l'Empreinte carbone personnalisée pour Orange Bank, en collaboration avec Carbon4",
+      "paths": [
+        {
+          "step": 231
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "title": "Des sites radio Orange isolés en Afrique. Il s'agit de la start-up Moneythor",
+      "paths": [
+        {
+          "step": 231
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "title": "Très bon choix !",
+      "paths": [
+        {
+          "step": 243
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "title": "Vous préférez en apprendre + sur...",
+      "paths": [
+        {
+          "label": "Les start-up françaises",
+          "step": 245
+        },
+        {
+          "label": "Les start-up en Afrique et au Moyen-Orient",
+          "step": 251
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "title": "Ok, c'est parti !<br/>Cliquez sur celle qui vous interpelle",
+      "paths": [
+        {
+          "label": "Le jeu de réalité virtuelle de rééducation",
+          "step": 246
+        },
+        {
+          "label": "L'assistant vocal interprète médical",
+          "step": 247
+        },
+        {
+          "label": "L'appli de suivi des risques liés à la grossesse",
+          "step": 248
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "title": "Ca s'appelle H'ability, le premier jeu de VR qui rend ludique et stimulante la rééducation pour les personnes atteintes d'hémiparésie",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "title": "Ca s'appelle Aliaa.tech. C'est une appli qui traduit en temps réel la conversation entre : un praticien et un patient qui ne parlent pas la même langue.",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "title": "Ca s'appelle Efelya. C'est une start-up inclusive, qui travaille aussi dans les pays en voie de développement.",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "title": "Envie de découvrir une autre start-up qui agit pour la santé ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 243
+        },
+        {
+          "label": "Non merci, je préfère découvrir les autres thématiques",
+          "step": 203
+        },
+        {
+          "label": "Non merci, je préfère aller tout de suite à la fin du parcours",
+          "step": 277
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "title": "Ok, c'est parti !<br/>Cliquez pour en savoir + sur la plateforme qui...",
+      "paths": [
+        {
+          "label": "facilite l'accès au soin de santé au Cameroun",
+          "step": 252
+        },
+        {
+          "label": "transforme l'offre de soins à domicile en Egypte",
+          "step": 258
+        },
+        {
+          "label": "facilite aux femmes rurales l'accès au système de couverture sociale en Tunisie",
+          "step": 260
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "title": "Elle s'appelle Waspito et elle fait partie du MEA Seed Challenge 2020",
+      "paths": [
+        {
+          "step": 254
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "title": "Vous connaissez le Seed Challenge ?",
+      "paths": [
+        {
+          "label": "Non, dites-moi en + !",
+          "step": 255
+        },
+        {
+          "label": "Oui !",
+          "step": 257
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "title": "Cette initiative Orange a pour ambition de financer 100 start-up d'Afrique et du Moyen-Orient d'ici 2025.",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "title": "Vous êtes fort !",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "title": "Elle s'appelle 7Keema et elle fait partie du MEA Seed Challenge 2020",
+      "paths": [
+        {
+          "step": 254
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "title": "Elle s'appelle Ahmini et elle est la gagnante du Prix International féminin du Poesam",
+      "paths": [
+        {
+          "step": 262
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "title": "Le Poesam, ça vous dit quelque chose ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 263
+        },
+        {
+          "label": "Non, expliquez-moi !",
+          "step": 264
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "title": "Vous êtes fort !",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "title": "C'est le prix Orange de l’Entrepreneur Social en Afrique et au Moyen-Orient. Il récompense depuis + de 10 ans les meilleurs projets à impact positif de ces régions du monde.",
+      "paths": [
+        {
+          "step": 249
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "title": "Très bon choix !",
+      "paths": [
+        {
+          "step": 267
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "title": "Vous avez envie d'en savoir + sur :",
+      "paths": [
+        {
+          "label": "Celles qui sont en Afrique ?",
+          "step": 268
+        },
+        {
+          "label": "Celles qui sont en France ?",
+          "step": 283
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "title": "Ca tombe bien, on a 2 start-up africaines à vous présenter !",
+      "paths": [
+        {
+          "label": "Un service de livraison de repas cuisinés par des restauratrices de rue au Burkina Fasso",
+          "step": 269
+        },
+        {
+          "label": "Une solution d'apprentissage pour un accès à une éducation de qualité au Liberia",
+          "step": 280
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "title": "Qui s'appelle Tôtô Riibo, découvrez-là à travers cette courte vidéo.",
+      "video": "toto-riibo",
+      "paths": [
+        {
+          "step": 272
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "title": "Tôtô Riibo a remporté le prix spécial de la 10e année du Poesam.",
+      "paths": [
+        {
+          "step": 273
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "title": "Le Poesam, ça vous dit quelque chose ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 276
+        },
+        {
+          "label": "Non, expliquez-moi !",
+          "step": 274
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "title": "C'est le prix Orange de l’Entrepreneur Social en Afrique et au Moyen-Orient. Il récompense depuis + de 10 ans les meilleurs projets à impact positif de ces régions du monde.",
+      "paths": [
+        {
+          "step": 276
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "title": "Envie de découvrir une autre start-up qui agit pour l'inclusion ?",
+      "paths": [
+        {
+          "label": "Oui !",
+          "step": 267
+        },
+        {
+          "label": "Non merci, je préfère découvrir les autres thématiques",
+          "step": 203
+        },
+        {
+          "label": "Non merci, je préfère aller tout de suite à la fin du parcours",
+          "step": 277
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "title": "Vous voilà (presque) incollable sur les initiatives de ces start-up !",
+      "paths": [
+        {
+          "step": 278
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "title": "Et maintenant ?",
+      "paths": [
+        {
+          "label": "Je veux découvrir les réseaux et leur efficacité énergétique",
+          "step": 4
+        },
+        {
+          "label": "Je veux connaître les actions à mettre en place à mon niveau",
+          "step": 102
+        },
+        {
+          "label": "Je m'arrête là, merci",
+          "step": 279
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "title": "Pour prolonger les découvertes sur le numérique et la transition écologique, <a href='https://www.orange.com/fr/orange-sengage-pour-la-transition-energetique-avec-le-numerique' target='_blank' rel='noopener'>cliquez ici</a>",
+      "paths": []
+    },
+    {
+      "id": 280,
+      "title": "Il s'agit de Weeglo au Libéria. Elle a même remporté le 3e prix Poseam.",
+      "paths": [
+        {
+          "step": 273
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "title": "D'accord, et vous préférez plutôt découvrir celles qui permettent...",
+      "paths": [
+        {
+          "label": "d'engager les salariés",
+          "step": 284
+        },
+        {
+          "label": "de faire progresser la diversité et l'inclusion au sein des entreprises",
+          "step": 288
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "title": "Ça tombe bien, on a une start-up à vous présenter... Il s'agit de Vendredi",
+      "paths": [
+        {
+          "step": 286
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "title": "Une plateforme qui permet aux entreprises de proposer des centaines d'actions sociales et environnementales à leurs salariés.",
+      "paths": [
+        {
+          "step": 276
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "title": "Ça tombe bien, on a 3 start-up à vous présenter !",
+      "paths": [
+        {
+          "label": "Une qui prône l'innovation comme facteur de progrès économique et social",
+          "step": 289
+        },
+        {
+          "label": "Une qui oeuvre pour la politique RSE des entreprises",
+          "step": 292
+        },
+        {
+          "label": "Une qui aide les salariés à passer à l'action",
+          "step": 295
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "title": "Il s'agit de Mixity qui conçoit des solutions de \"data intelligence\" pour évaluer, piloter et promouvoir les politiques RSE des organisations.",
+      "paths": [
+        {
+          "step": 276
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "title": "Il s'agit de Meandyoutoo qui permet de transformer la culture de ses collaborateurs grâce à une solution digitale RH d'auto-diagnostics sur les stéréotypes.",
+      "paths": [
+        {
+          "step": 293
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "title": "Et cette start-up participe au programme Women Start. Vous savez ce que c'est ?",
+      "paths": [
+        {
+          "label": "Bien sûr !",
+          "step": 276
+        },
+        {
+          "label": "Non, mais je veux bien en savoir +",
+          "step": 294
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "title": "C'est un programme Orange dédié aux femmes entrepreneures qui comprend notamment un accompagnement avec différents mentors.",
+      "paths": [
+        {
+          "step": 276
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "title": "Il s'agit de Fifty, une plateforme d'outils qui accompagne la transformation des entreprises en associant l'intelligence artificielle à la théorie comportementale du Nudge",
+      "paths": [
+        {
+          "step": 293
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "HelvNeueOrange";
+  src: url(//c.woopic.com/fonts/HelvNeue55_W1G.eot?20201014);
+  src: url(//c.woopic.com/fonts/HelvNeue55_W1G.eot?20201014#iefix)
+      format("embedded-opentype"),
+    url(//c.woopic.com/fonts/HelvNeue55_W1G.woff2?20201014) format("woff2"),
+    url(//c.woopic.com/fonts/HelvNeue55_W1G.woff?20201014) format("woff"),
+    url(//c.woopic.com/fonts/HelvNeue55_W1G.ttf?20201014) format("truetype"),
+    url(//c.woopic.com/fonts/HelvNeue55_W1G.svg?20201014#HelveticaNeueLTW07-55Roman)
+      format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HelvNeueOrange";
+  src: url(//c.woopic.com/fonts/HelvNeue75_W1G.eot?20201014);
+  src: url(//c.woopic.com/fonts/HelvNeue75_W1G.eot?20201014#iefix)
+      format("embedded-opentype"),
+    url(//c.woopic.com/fonts/HelvNeue75_W1G.woff2?20201014) format("woff2"),
+    url(//c.woopic.com/fonts/HelvNeue75_W1G.woff?20201014) format("woff"),
+    url(//c.woopic.com/fonts/HelvNeue75_W1G.ttf?20201014) format("truetype"),
+    url(//c.woopic.com/fonts/HelvNeue75_W1G.svg?20201014#HelveticaNeueLTW07-75Bold)
+      format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+a,
+body,
+div,
+h1,
+h2,
+h3,
+h4,
+html,
+img,
+p,
+span,
+strong {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+details,
+footer,
+header,
+main,
+menu,
+nav,
+section {
+  display: block;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+body {
+  font-family: "HelvNeueOrange", "Helvetica Neue", Helvetica, Arial,
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400;
+}

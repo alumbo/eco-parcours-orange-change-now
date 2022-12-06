@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+  <head>
+    <title>Écogestes</title>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <link
+      rel="stylesheet"
+      href="https://mastermedia.orange-business.com/kpk-static/kpk-web-components/build/kpk-web-components.css"
+    />
+    <script
+      type="module"
+      src="https://mastermedia.orange-business.com/kpk-static/kpk-web-components/build/kpk-web-components.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://mastermedia.orange-business.com/kpk-static/kpk-web-components/build/kpk-web-components.js"
+    ></script>
+    <style>
+      #kpkvid {
+        /** you can customise player primary and secondary color here **/
+        --kpk-video-primary: #ff7900;
+        --kpk-video-secondary: #ccc;
+        width: 100vw;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <kpk-video id="kpkvid"> </kpk-video>
+    <script>
+      document.querySelector("#kpkvid").configuration = {
+        statistics: {
+          url: "https://mastermedia.orange-business.com/stats/hit",
+          mediaId: 50658,
+          instanceId: 1,
+          uiId: -1,
+          maxDuration: 40,
+          referrer: "ChangeNow",
+        },
+        theme: "fantasy",
+        autoplay: true,
+        posterSrc:
+          "https://mastermedia.dam-broadcast.com/medias/domain1/media170/50658-s25udtv04k-whr.jpg",
+        sources: [
+          {
+            label: "720p",
+            res: 720,
+            src: "https://mastermedia.dam-broadcast.com/medias/domain1/media170/50658-s25udtv04k-720.mp4",
+            type: "video/mp4",
+            default: true,
+          },
+        ],
+      };
+    </script>
+  </body>
+</html>
