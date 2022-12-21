@@ -16,8 +16,6 @@ yarn build
 yarn start
 ```
 
-[Preview in Codespaces](https://alumbo-ideal-acorn-5v6r4w9j9pcv4gg-8080.preview.app.github.dev/)
-
 ### Lighthouse report 🎆
 
 ![Lighthouse report](various/lighthouse-report.png?raw=true)
